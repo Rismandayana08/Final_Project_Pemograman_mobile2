@@ -1,4 +1,4 @@
-# 📱 KontakApp: Aplikasi Manajemen Kontak Modern Terintegrasi AI
+# KontakApp: Aplikasi Manajemen Kontak Modern Terintegrasi AI
 
 KontakApp adalah aplikasi Android inovatif untuk manajemen kontak yang dirancang guna menyelesaikan masalah umum: buku telepon yang membosankan dengan foto profil yang kosong. Aplikasi ini mengintegrasikan kecerdasan buatan (melalui Pexels API) untuk mencari dan menetapkan foto profil berkualitas tinggi secara otomatis berdasarkan kata kunci.
 
@@ -6,17 +6,17 @@ KontakApp adalah aplikasi Android inovatif untuk manajemen kontak yang dirancang
 
 ---
 
-## ✨ Fitur Unggulan
+## Fitur Unggulan
 
-* **📝 Manajemen Kontak Lengkap (CRUD):** Tambah, Edit, Hapus, dan cari data kontak dengan antarmuka yang sangat responsif.
-* **🤖 AI Photo Search (Pexels API):** Fitur pencarian foto profil dinamis berbasis kata kunci (misal: "pria formal", "cewek aesthetic") langsung dari dalam aplikasi.
-* **🔄 Smart Manual Sync:** Mengimpor kontak dari memori telepon secara manual. Dirancang dengan mengedepankan privasi pengguna melalui dialog konfirmasi dan sistem permission Android.
-* **🔍 Detail & Fullscreen View:** Tampilan detail kontak yang bersih dengan kemampuan melihat foto profil dalam ukuran penuh (fullscreen).
-* **🎨 Modern UI/UX:** Menggunakan elemen Material Design 3 dengan palet warna Biru (kepercayaan) dan Kuning (kreativitas) yang nyaman dipandang.
+* **Manajemen Kontak Lengkap (CRUD):** Tambah, Edit, Hapus, dan cari data kontak dengan antarmuka yang sangat responsif.
+* **AI Photo Search (Pexels API):** Fitur pencarian foto profil dinamis berbasis kata kunci (misal: "pria formal", "cewek aesthetic") langsung dari dalam aplikasi.
+* **Smart Manual Sync:** Mengimpor kontak dari memori telepon secara manual. Dirancang dengan mengedepankan privasi pengguna melalui dialog konfirmasi dan sistem permission Android.
+* **Detail & Fullscreen View:** Tampilan detail kontak yang bersih dengan kemampuan melihat foto profil dalam ukuran penuh (fullscreen).
+*  **Modern UI/UX:** Menggunakan elemen Material Design 3 dengan palet warna Biru (kepercayaan) dan Kuning (kreativitas) yang nyaman dipandang.
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
+## UI (User Interface)
 
 <div align="center">
   <img src="splash.jpeg" width="200" alt="Splash Screen">
@@ -25,15 +25,14 @@ KontakApp adalah aplikasi Android inovatif untuk manajemen kontak yang dirancang
   <img src="izin.jpeg" width="200" alt="Izin Akses">
   <img src="daftar_kontak.jpeg" width="200" alt="Daftar Kontak">
   <img src="tambah_kontak.jpeg" width="200" alt="Tambah Kontak">
-  <img src="image_c60d90.jpeg" width="200" alt="Pencarian Foto AI">
+  <img src="ai.jpeg" width="200" alt="Pencarian Foto AI">
+   <img src="hasil.jpeg" width="200" alt="Pencarian Foto AI">
   <img src="detail_kontak.jpeg" width="200" alt="Detail Kontak">
 </div>
 
-> **Catatan:** Pastikan file gambar di atas diunggah ke folder yang sama dengan file `README.md` ini di repositori GitHub Anda agar gambar dapat ditampilkan.
-
 ---
 
-## 🛠️ Teknologi & Arsitektur (Tech Stack)
+## Teknologi & Arsitektur (Tech Stack)
 
 Aplikasi ini dibangun menggunakan pendekatan *native* untuk memastikan performa yang optimal:
 
@@ -45,7 +44,7 @@ Aplikasi ini dibangun menggunakan pendekatan *native* untuk memastikan performa 
 
 ---
 
-## 💡 Tantangan Teknis & Solusi
+## Tantangan Teknis & Solusi
 
 | Tantangan / Masalah | Solusi yang Diterapkan |
 | :--- | :--- |
@@ -55,7 +54,7 @@ Aplikasi ini dibangun menggunakan pendekatan *native* untuk memastikan performa 
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi (Instalasi)
+##  Cara Menjalankan Aplikasi (Instalasi)
 
 1. Pastikan Anda telah menginstal Android Studio.
 2. *Clone* repositori ini ke komputer Anda melalui terminal/CMD:
