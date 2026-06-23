@@ -19,13 +19,14 @@ KontakApp adalah aplikasi Android inovatif untuk manajemen kontak yang dirancang
 ## 📸 Tangkapan Layar (Screenshots)
 
 <div align="center">
-  <img src="WhatsApp Image 2026-06-08 at 18.35.19.jpeg" width="200" alt="Splash Screen">
-  <img src="image_c6098b.jpg" width="200" alt="Daftar Kontak">
-  <img src="image_c60dac.jpg" width="200" alt="Tambah Kontak">
-  <img src="image_c60d90.png" width="200" alt="Pencarian Foto AI">
-  <img src="image_c60dc8.jpg" width="200" alt="Detail Kontak">
-  <img src="image_c609b2.png" width="200" alt="Dialog Sinkronisasi">
-  <img src="image_c609cd.png" width="200" alt="Izin Akses">
+  <img src="splash.jpeg" width="200" alt="Splash Screen">
+  <img src="tampilan_awal.jpeg" width="200" alt="Tampilan Awal">
+   <img src="sinkron.jpeg" width="200" alt="Dialog Sinkronisasi">
+  <img src="izin.jpeg" width="200" alt="Izin Akses">
+  <img src="daftar_kontak.jpeg" width="200" alt="Daftar Kontak">
+  <img src="tambah_kontak.jpeg" width="200" alt="Tambah Kontak">
+  <img src="image_c60d90.jpeg" width="200" alt="Pencarian Foto AI">
+  <img src="detail_kontak.jpeg" width="200" alt="Detail Kontak">
 </div>
 
 > **Catatan:** Pastikan file gambar di atas diunggah ke folder yang sama dengan file `README.md` ini di repositori GitHub Anda agar gambar dapat ditampilkan.
