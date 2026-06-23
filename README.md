@@ -20,13 +20,14 @@ KontakApp adalah aplikasi Android inovatif untuk manajemen kontak yang dirancang
 
 <div align="center">
   <img src="splash.jpeg" width="200" alt="Splash Screen">
+  <img src="loading.jpeg" width="200" alt="Loading">
   <img src="tampilan_awal.jpeg" width="200" alt="Tampilan Awal">
    <img src="sinkron.jpeg" width="200" alt="Dialog Sinkronisasi">
   <img src="izin.jpeg" width="200" alt="Izin Akses">
   <img src="daftar_kontak.jpeg" width="200" alt="Daftar Kontak">
   <img src="tambah_kontak.jpeg" width="200" alt="Tambah Kontak">
   <img src="ai.jpeg" width="200" alt="Pencarian Foto AI">
-   <img src="hasil.jpeg" width="200" alt="Pencarian Foto AI">
+   <img src="hasil.jpeg" width="200" alt="hasil">
   <img src="detail_kontak.jpeg" width="200" alt="Detail Kontak">
 </div>
 
